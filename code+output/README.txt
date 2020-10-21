@@ -1,0 +1,1 @@
+to run the program open the command line in the same directory as the project1.py file and type "python project1.py" without the quotes
